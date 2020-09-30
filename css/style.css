@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+}
+
+.title {
+  font-size: 40px;
+  font-family: "Piazzolla", serif;
+  padding: 0px;
+  margin: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .title {
+    font-size: 27px;
+  }
+}
+
+.p-25 {
+  padding: 20px;
+}
+
+.mt-8{
+  margin-top: 8px;
+}
