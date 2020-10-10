@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  $(".target").pushpin({ top: $('.target').offset().top });
+  $(".target").pushpin({ top: 0 });
 });
 
 $(".pushpin-demo-nav").each(function () {
