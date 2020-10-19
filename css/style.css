@@ -20,42 +20,42 @@ body {
   padding: 20px;
 }
 
-.mt-8{
+.mt-8 {
   margin-top: 8px;
 }
 
-.zoom:hover{
-  transform: scale(1.05)
+.zoom:hover {
+  transform: scale(1.05);
 }
 
-.bold{
+.bold {
   font-weight: bold;
 }
 
-.h-325{
+.h-325 {
   height: 325px;
 }
 
-.l-border-gold{
+.l-border-gold {
   border-left-color: gold;
 }
 
-.l-border-lightgreen{
+.l-border-lightgreen {
   border-left-color: lightgreen;
 }
 
-.l-border-skyblue{
+.l-border-skyblue {
   border-left-color: skyblue;
 }
 
-.l-border-brown{
+.l-border-brown {
   border-left-color: brown;
 }
 
-.l-border-grey{
+.l-border-grey {
   border-left-color: grey;
 }
 
-.l-border-burlywood{
+.l-border-burlywood {
   border-left-color: burlywood;
 }
